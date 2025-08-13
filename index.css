@@ -45,11 +45,12 @@ body {
   width: 120px; /* Tamaño aumentado para escritorio */
   height: 120px; /* Tamaño aumentado para escritorio */
   border-radius: 50%; /* Para imagen cuadrada 8px. Cambiar a 50% para imagen redonda */
-  bottom: -01px; /* Aún más abajo */
+  bottom: -80px; /* Aún más abajo */
   left: 80%; /* A la derecha */
   transform: translateX(-50%); /* Centra respecto al punto de referencia */
   border: 4px solid white; /* Borde blanco alrededor - cambiar color/grosor aquí */
   box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* Sombra de la imagen de perfil */
+  margin-top: 5px; /* Sin margen superior */
 }
 
 /* === TEXTO Y TIPOGRAFÍA === */
@@ -176,7 +177,7 @@ p {
   .profile-img {
     width: 70px; /* Imagen de perfil optimizada para móvil */
     height: 70px; /* Altura optimizada */
-    bottom: -50px; /* Posición ajustada para el nuevo tamaño */
+    bottom: -65px; /* Más abajo para no tapar el texto del banner */
   }
 
   h1 {
