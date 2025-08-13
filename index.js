@@ -65,7 +65,7 @@ FN:Wallesca Méndez
 N:Méndez;Wallesca;;;
 ORG:Cotiza Plan Médico;
 TEL;TYPE=CELL:787-585-4322
-EMAIL:cotizaplanmedico@outlookl.com
+EMAIL:cotizaplanmedico@outlook.com
 URL:https://www.cotizaplanmedico.com
 ADR:;;Caguas;Puerto Rico;;;
 NOTE:Servicios: Plan médico Individual o Familiar, Planes Médicos Grupales (PYMES), Medicare Advantage
