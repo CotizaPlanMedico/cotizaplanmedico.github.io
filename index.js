@@ -1,7 +1,7 @@
 /* === FUNCIONES JAVASCRIPT === */
 /* Función para compartir el enlace en móviles */
 function compartirEnlace() {
-  const url = "https://cotizaplanmedico.github.io/";
+  const url = "https://cotizaplanmedico.github.io/cotizaplanmedico.gitthub.io/";
   const title = document.title || "Business Card";
   if (navigator.share) {
     navigator.share({
