@@ -121,10 +121,10 @@ Este proyecto es propiedad intelectual de HA Technologies. El código fuente est
 
 ### Términos de Uso
 
-- ✅ **Uso autorizado**: Clientes de HA Technologies pueden usar este código
-- ✅ **Modificaciones**: Permitidas para personalización del negocio del cliente
-- ❌ **Redistribución**: No se permite la redistribución sin autorización expresa
-- ❌ **Uso comercial no autorizado**: Prohibido el uso para reventa o creación de productos derivados sin licencia
+- ✅ **Uso autorizado**: Clientes de HA Technologies pueden usar este código.
+- ✅ **Modificaciones**: Permitidas para personalización del negocio del cliente.
+- ❌ **Redistribución**: No se permite la redistribución sin autorización expresa.
+- ❌ **Uso comercial no autorizado**: Prohibido el uso para reventa o creación de productos derivados sin licencia.
 
 Para solicitar permisos adicionales o licencias comerciales, contacta a [HA Technologies](https://ha-technologies-pr.vercel.app).
 
